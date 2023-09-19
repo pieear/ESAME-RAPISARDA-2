@@ -179,7 +179,7 @@ div.card1 p{
     margin-top: -545px;
     margin-right: 40px;
     margin-bottom: 315px;
-    margin-left: 829px;
+    margin-left: auto;
     font-family: 'Inter';
     font-size: 48px;
     font-style: normal;
@@ -207,7 +207,7 @@ div.card2 h4{
     line-height: normal;
     margin-top: 445px;
     margin-left: 20%;
-    margin-right: 1153px;
+    margin-right: auto;
 }
 
 div.card2 h3{
@@ -223,7 +223,7 @@ div.card2 h3{
     line-height: normal;
     margin-left: 20%;
     margin-top: -27px;
-    margin-right: 929px;
+    margin-right: auto;
 }
 
 div.card2 p{
@@ -239,7 +239,7 @@ font-weight: 500;
 line-height: 125%; /* 45px */
 margin-top: 37px;
 margin-left: 27%;
-margin-right: 237px;
+margin-right: auto;
 }
 
 div.card2 button{
@@ -261,7 +261,7 @@ div.card2 button{
     margin: 0;
     margin-top: 36px;
     margin-left: 27%;
-    margin-right: 805px;
+    margin-right: auto;
     padding: 0;
     transition: .2s; /* Animation */
 }
