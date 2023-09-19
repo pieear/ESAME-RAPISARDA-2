@@ -606,7 +606,7 @@ div.due li:hover{
 
 
 /*VISUALIZZAZIONE MOBILE VERTICALE*/
-@media (max-width: 500px)
+@media (max-width: 600px)
 {
     body {
         background-color: #184108;

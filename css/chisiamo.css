@@ -763,7 +763,7 @@ div.contatti h5 {
     }
 
 /*VISUALIZZAZIONE MOBILE VERTICALE*/
-@media (max-width: 500px)
+@media (max-width: 600px)
 {
     body {
         background-color: #184108;
