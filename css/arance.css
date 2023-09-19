@@ -970,7 +970,6 @@ margin-bottom: 65px;
                 color: #fff;
                 margin: 0;
                 padding: 0;
-                margin-left: 50px;
                 margin-top: 35px;            
                 color: #fff;
                 font-family: 'Inter';
@@ -986,6 +985,8 @@ margin-bottom: 65px;
             div.testo3 {
             bottom: 0;
             margin: 0;
+            margin-left: auto;
+            margin-right: auto;
             }
 
 
