@@ -215,11 +215,12 @@ div.testo p {
 }
 
 div.testo {
+    width: 568px;
     bottom: 0;
-    margin-left: 10%;
+    margin-left: auto;
     margin-top: 180px;
     margin-bottom: 420px;
-    margin-right: 12%;
+    margin-right: auto;
 }
 
 
