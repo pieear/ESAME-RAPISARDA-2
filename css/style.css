@@ -773,7 +773,7 @@ div.card1 {
         div.card2 h4{
             margin: 0;
             padding: 0;
-            width: 28px;
+            width: 400px;
             height: auto;
             color: #FFF;
             font-family: 'Inter';
@@ -782,13 +782,14 @@ div.card1 {
             font-weight: 600;
             line-height: normal;
             margin-top: 5px;
-            margin-left: 77px;
+            margin-left: auto;
+            margin-right: auto;
         }
         
         div.card2 h3{
             margin: 0;
             padding: 0;
-            width: 209px;
+            width: 400px;
             height: 116px;
             color: #E34E24;
             font-family: 'Molle';
@@ -796,7 +797,8 @@ div.card1 {
             font-style: normal;
             font-weight: 400;
             line-height: normal;
-            margin-left: 77px;
+            margin-left: auto;
+            margin-right: auto;
             margin-top: -10px;
     
         }
@@ -804,7 +806,7 @@ div.card1 {
         div.card2 p{
             margin: 0;
             padding: 0;
-            width: 344px;
+            width: 400px;
             height: 173px;
             color: #FFF;
         font-family: 'Inter';
@@ -814,7 +816,6 @@ div.card1 {
         line-height: 125%; /* 45px */
 
         margin-top: 36px;
-        margin-left: 77px;
     
         }
         
@@ -836,9 +837,13 @@ div.card1 {
             text-decoration: none;
             margin: 0;
             padding: 0;
-            margin-left: 77px;
-            margin-top: 20px;
             transition: none;
+        }
+
+        div.grid{
+            width: 400px;
+            margin-right: auto;
+            margin-left: auto;
         }
 
         div.card2 button:hover{
@@ -849,6 +854,7 @@ div.card1 {
             text-decoration: none;
             color: #fff;
         }
+        
 
         
         
@@ -866,9 +872,10 @@ div.card1 {
         }
 
         div.card3 h4{
+            text-align: end;
             margin: 0;
             padding: 0;
-            width: 100px;
+            width: 400px;
             height: auto;
             color: #FFF;
             font-family: 'Inter';
@@ -878,13 +885,16 @@ div.card1 {
             line-height: normal;
            margin: 0;
            padding: 0;
-           margin-left: 329px;
+           margin-left: auto;
+           margin-right: auto;
         }
         
         div.card3 h3{
+            text-align: end;
+
             margin: 0;
             padding: 0;
-            width: 278px;
+            width: 400px;
             height: 116px;
             color: #E34E24;
             font-family: 'Molle';
@@ -894,7 +904,8 @@ div.card1 {
             line-height: normal;
            margin: 0;
            padding: 0;
-           margin-left: 130px;
+           margin-left: auto;
+           margin-right: auto;
         }
         section.grid {
             margin: 0px 100px;
