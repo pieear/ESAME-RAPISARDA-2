@@ -887,7 +887,6 @@ div.contatti h5 {
                 line-height: 80px;
             margin: 0;
                 bottom: 0;
-                margin-left: 48px;
                 margin-top: 35px;
                 width: 400px;
             }
@@ -899,7 +898,6 @@ div.contatti h5 {
         font-style: normal;
         font-weight: 400;
         line-height: 80px;
-        margin-left: 48px;
         margin-top: 0px;
         width: 400px;
             }
@@ -909,7 +907,6 @@ div.contatti h5 {
                 height: 121px;
                 color: #FFF;
                 margin-top: 40px;
-                margin-left: 48px;
                 margin-bottom: 86px;
                 color: #FFF;
                 font-family: 'Inter';
@@ -924,6 +921,8 @@ div.contatti h5 {
            margin: 0;
            width: 400px;
            height: auto;
+           margin-right: auto;
+           margin-left: auto;
             }
 
 
@@ -954,7 +953,9 @@ div.contatti h5 {
                     font-weight: 400;
                     line-height: normal;
                     line-height: 125%; /* 22.5px */
-                    
+                                        margin-right: auto;
+                    margin-left: auto;
+
                    
     
                 }
@@ -984,7 +985,8 @@ div.contatti h5 {
                         width: 265px;
                         height: 265px;
                         border-radius: 20px;
-                        margin-left: 117px;
+                        margin-left: auto;
+                        margin-right: auto;
                         margin-top: 60px;
                        object-fit: scale-down;                  
                     }
@@ -1000,7 +1002,6 @@ div.contatti h5 {
                         margin: 0;
                         bottom: 0;
                         margin-top: 30px;
-                        margin-left: 50px;
                       
                     }
                     
@@ -1010,7 +1011,6 @@ div.contatti h5 {
                         color: #fff;
                         margin: 0;
                         padding: 0;
-                        margin-left: 50px;
                         margin-top: 30px;      
                         margin-bottom: 60px;      
                         color: #fff;
@@ -1027,6 +1027,9 @@ div.contatti h5 {
                     div.testo3 {
                     bottom: 0;
                     margin: 0;
+                    width: 400px;
+                    margin-left: auto;
+                    margin-right: auto;
                     }
         
 
@@ -1050,7 +1053,8 @@ div.contatti h5 {
                             width: 265px;
                         height: 265px;
         
-                        margin-left: 117px;
+                        margin-left: auto;
+                        margin-right: auto;
                         margin-top: 80px;
                            object-fit: scale-down;
                            order: 2;
@@ -1068,7 +1072,6 @@ div.contatti h5 {
                             bottom: 0;
                             width: 232px;
                             margin-top: 30px;
-                            margin-left: 50px;
                           
                         }
                         
@@ -1078,7 +1081,6 @@ div.contatti h5 {
                             color:#000;
                             margin: 0;
                             padding: 0;
-                            margin-left: 50px;
                             margin-top: 30px;
                             margin-bottom: 67px;
                         
@@ -1094,6 +1096,9 @@ div.contatti h5 {
                         div.testo4 {
                         bottom: 0;
                         margin: 0;
+                        width: 400px;
+                    margin-left: auto;
+                    margin-right: auto;
                         }
         
         
@@ -1116,7 +1121,8 @@ div.contatti h5 {
                                 width: 265px;
                                 height: 265px;
                                 border-radius: 20px;
-                                margin-left: 117px;
+                                margin-left: auto;
+                                margin-right: auto;
                                 margin-top: 60px;
                                object-fit: scale-down;                  
                             }
@@ -1132,7 +1138,6 @@ div.contatti h5 {
                                 margin: 0;
                                 bottom: 0;
                                 margin-top: 30px;
-                                margin-left: 50px;
                               
                             }
                             
@@ -1142,7 +1147,6 @@ div.contatti h5 {
                                 color: #fff;
                                 margin: 0;
                                 padding: 0;
-                                margin-left: 50px;
                                 margin-top: 30px;      
                                 margin-bottom: 60px;      
                                 color: #fff;
@@ -1159,6 +1163,9 @@ div.contatti h5 {
                             div.testo5 {
                             bottom: 0;
                             margin: 0;
+                            width: 400px;
+                    margin-left: auto;
+                    margin-right: auto;
                             }
                 
                 
@@ -1182,7 +1189,8 @@ div.contatti h5 {
                                     width: 265px;
                                 height: 265px;
                 
-                                margin-left: 117px;
+                                margin-left: auto;
+                                margin-right: auto;
                                 margin-top: 80px;
                                    object-fit: scale-down;
                                    order: 2;
@@ -1200,7 +1208,6 @@ div.contatti h5 {
                                     bottom: 0;
                                     width: 232px;
                                     margin-top: 30px;
-                                    margin-left: 50px;
                                   
                                 }
                                 
@@ -1210,7 +1217,6 @@ div.contatti h5 {
                                     color:#000;
                                     margin: 0;
                                     padding: 0;
-                                    margin-left: 50px;
                                     margin-top: 30px;
                                     margin-bottom: 67px;
                                 
@@ -1226,6 +1232,9 @@ div.contatti h5 {
                                 div.testo6 {
                                 bottom: 0;
                                 margin: 0;
+                                width: 400px;
+                    margin-left: auto;
+                    margin-right: auto;
                                 }
 
 
@@ -1248,7 +1257,8 @@ div.contatti h5 {
                                         width: 265px;
                                         height: 265px;
                                         border-radius: 20px;
-                                        margin-left: 117px;
+                                        margin-left: auto;
+                                        margin-right: auto;
                                         margin-top: 90px;
                                        object-fit: scale-down;                  
                                     }
@@ -1264,7 +1274,6 @@ div.contatti h5 {
                                         margin: 0;
                                         bottom: 0;
                                         margin-top: 30px;
-                                        margin-left: 50px;
                                       
                                     }
                                     
@@ -1274,7 +1283,6 @@ div.contatti h5 {
                                         color: #fff;
                                         margin: 0;
                                         padding: 0;
-                                        margin-left: 50px;
                                         margin-top: 30px;      
                                         margin-bottom: 100px;      
                                         color: #fff;
@@ -1291,6 +1299,9 @@ div.contatti h5 {
                                     div.testo7 {
                                     bottom: 0;
                                     margin: 0;
+                                    width: 400px;
+                    margin-left: auto;
+                    margin-right: auto;
                                     }
 
                         
